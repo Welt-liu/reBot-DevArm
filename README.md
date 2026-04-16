@@ -50,18 +50,14 @@
 - 🔩 **BOM List**: Detailed down to the specifications and purchase links for every single screw.
 - 💻 **Software & Algorithms**: Python SDK, ROS1/2, Isaac Sim, LeRobot, etc.
 
-## Build Your Own reBot Arm
+## Get Your Own reBot Arm
 
-- We offer five kit options:
+- We offer five kit options  at  [Seeedstudio.com](https://www.seeedstudio.com/reBot-Arm-B601-DM-Body-Structure-Kit-p-6753.html) :
   - **Arm Body Motor Kit**: Includes only motors and wiring harnesses for the robotic arm.
   - **Arm Body Structural Kit**: Includes only mechanical structural components.
   - **Gripper Complete Kit**: Includes motors, wiring harnesses and structural components for the gripper.
   - **Full Kit**: Includes the complete set of the robotic arm body and gripper.
   - **Pre‑assembled Robotic Arm**: Fully assembled finished robotic arm.
-
-You may purchase the remaining parts from the SeeedStudio Store based on the components you already have (expected availability: April 15, 2026).
-
-[You can leave your information here, and we will send you the limited pre-order link in advance.](https://forms.gle/1MwdVKUqkuGu3C7L7)
 
 
 ## 🗺️ Roadmap & Status

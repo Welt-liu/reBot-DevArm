@@ -44,9 +44,7 @@
 - 🔩 **Liste BOM** : détails complets jusqu’aux spécifications et aux liens d’achat de chaque vis.
 - 💻 **Logiciels & algorithmes** : SDK Python, ROS1/2, Isaac Sim, LeRobot, etc.
 
-Vous pouvez acheter les pièces restantes sur le magasin SeeedStudio en fonction des composants que vous possédez déjà (mise en vente prévue le 15 avril 2026).
 
-[Laissez vos informations ici, nous vous enverrons à l’avance le lien de pré-commande en quantité limitée.](https://forms.gle/1MwdVKUqkuGu3C7L7)
 
 ## 🗺️ Feuille de route & état
 

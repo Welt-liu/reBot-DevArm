@@ -35,7 +35,7 @@
 <a href="https://wiki.seeedstudio.com/robotics_page/">  
     <img src="https://img.shields.io/badge/Documentation-📕-blue" alt="robotics wiki"></a>
 </p
-  
+
 ## 📖 项目简介 (Introduction)
 
 **reBot-DevArm (reBot Arm B601 DM 和reBot Arm B601 RS)** 是一个致力于降低具身智能学习门槛的机械臂项目。我们主打 **"真·开源"** —— 不仅仅是代码，我们无保留地开源了所有的：
@@ -53,9 +53,10 @@
   - **整机完整套件**：包含机械臂本体与夹持器全套组件。
   - **成品组装机械臂**：已完成组装的成品机械臂。
 
-你可根据手头已有的配件，在 SeeedStudio 商城选购剩余部分（预计上架时间：2026年4月15日）。
+  你可以在如下地方购买到完整零件：
 
-[你可以在此留下你的信息，我们将提前为你发送限量预售链接](https://jsj.top/f/PQ42WF)。
+  中国：[淘宝矽递科技旗舰店](https://detail.tmall.com/item.htm?app=chrome&bxsign=scdlw5VjXYQhfgOyva6IEit8asOyaYSFE5I3VXYy3VPlmlREIPF350GWGqrQeFq6zMR0LYTFVDN1CYDrBsUaYz-4JxcTqiZF-HQ6NUldhIWqF4BZVDgneY0XNmbgokb1mXQ&cpp=1&id=1042412233386&price=8295&shareUniqueId=35714007536&share_crt_v=1&shareurl=true&short_name=h.iLxfDpYMNSysFIa&sourceType=item%2Citem&sp_tk=UGU1SzU2ZmJVdE8%3D&spm=a2159r.13376460.0.0&suid=f2c61ac8-e0ca-45d0-b100-75210b69b5b9&tbSocialPopKey=shareItem&tk=Pe5K56fbUtO&un=1a387738ed21d73a0f8768acc41474bb&un_site=0&ut_sk=1.aduVZSGbgvEDAPW0%2BMUyPBgR_21646297_1776313782940.Copy.1&wxsign=tbwGGBQEcYglkjQ8Bb9ce0nY3n0Lt2A0LqWv5fIH-2gpBWlQr1YAclOKyIimOONlUMdMNexbYhHL1BfCn7tnsbQlmgAwPGYNzFYFGNmitXbVMMtxoW1WB68Oux3DSBGem9OWTXZB4ARF_FuruhSrejI1g)
+  
 
 ## 🗺️ 开源路线图 (Roadmap & Status)
 
